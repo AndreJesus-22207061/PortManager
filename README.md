@@ -13,6 +13,8 @@ O objetivo deste Projeto era desenvolver um simulador de um estaleiro de embarca
 
 Exemplos:
 
+````
+
 % ./portmanager
 +---- MENU
 | move          [-g grua] [-d ponto] [-p pilha] [-D ponto] [-P pilha] [-n numero_de_contentores]
@@ -101,4 +103,4 @@ d1 LENA
         p2 6 AB0:500 AB1:500 AB2:500 AB3:500 AA8:500 AA9:500 
 
 >
-
+```
